@@ -20,12 +20,8 @@ nltk.download('stopwords')
 
 
 
-bot = telebot.TeleBot("7946722160:AAHNUi5lcmh9fhqIPdKtiw_cWF8AkRCPsUs")
+bot = telebot.TeleBot("___")
 last_flip = None
-
-#client = OpenAI(
-#  api_key="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"
-#)
 
 
 import os
